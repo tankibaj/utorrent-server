@@ -16,7 +16,7 @@ sudo bash utorrent-server-installer.sh
 
 **Location of Torrent Files:** `/home/utorrent/torrent`
 
-## WebUI
+## UI
 
 **Builtin WebUI**
 
