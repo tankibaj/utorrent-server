@@ -3,8 +3,8 @@ This script will help you to set up your own uTorrent server within a minute in 
 
 ## Download and Run
 
-```sh
-sh -c "$(wget -O- https://git.io/JI2wa)"
+```bash
+wget -O ut-installer.sh https://git.io/JI2wa && sudo bash ut-installer.sh
 ```
 
 ## URL and Download Path
