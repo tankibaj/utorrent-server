@@ -14,6 +14,11 @@ wget -O ut-installer.sh https://git.io/JI2wa && sudo bash ut-installer.sh
 
 **Location of Torrent Files:** `/home/utorrent/torrent`
 
+## WebUI Login
+**User:** admin
+
+**Password:** keep it blank
+
 ## UI
 
 **Builtin WebUI**
